@@ -1,32 +1,32 @@
 getgenv().loop = true
 while wait() do
 if getgenv().loop == true then
-local ohString1 = "i rape kids"
+local ohString1 = "i rape children"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
 
-local ohString1 = "i rape kids"
+local ohString1 = "i rape children"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
 
-local ohString1 = "i rape kids"
+local ohString1 = "i rape children"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
 
-local ohString1 = "i rape kids"
+local ohString1 = "i rape children"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
 
-local ohString1 = "i rape kids"
+local ohString1 = "i rape children"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
 
-local ohString1 = "i rape kids"
+local ohString1 = "i rape children"
 local ohString2 = "All"
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)

